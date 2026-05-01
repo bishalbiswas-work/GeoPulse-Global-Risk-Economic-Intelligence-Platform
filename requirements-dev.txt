@@ -3,7 +3,7 @@ pydantic
 sqlalchemy
 alembic
 psycopg2-binary
-uvicon
+pydantic-settings
 
 pytest
 httpx
