@@ -26,3 +26,9 @@ Folder Structure
 Packages installation 
 pip install -r requirements-dev.txt # Development
 pip install -r requirements.txt # Production
+
+
+Environment Settings
+ENV = production or development
+DEBUG = True or False
+PGSQL_DATABASE_URL = postgresql connection string
