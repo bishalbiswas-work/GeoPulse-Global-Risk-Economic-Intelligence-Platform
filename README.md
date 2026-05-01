@@ -19,3 +19,10 @@ Folder Structure
 ├── .env                     # Environment variables
 ├── Dockerfile               # Containerization instructions
 └── requirements.txt         # Project dependencies
+
+
+
+
+Packages installation 
+pip install -r requirements-dev.txt # Development
+pip install -r requirements.txt # Production
